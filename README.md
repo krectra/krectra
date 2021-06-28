@@ -1,4 +1,12 @@
 ### Hi there 👋
+![:eye](https://komarev.com/ghpvc/?username=krectra)
+<br />
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=krectra&show_icons=true&count_private=true&theme=tokyonight&hide=stars)
+
+
+<br /><br /><br />
+<img align="right" alt="" src="https://www.python.org/static/community_logos/python-powered-w-140x56.png" />
 
 <!--
 **krectra/krectra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
