@@ -1,13 +1,18 @@
 ### Hi there 👋
-![:eye](https://komarev.com/ghpvc/?username=krectra)
+
+![Splash](https://media.giphy.com/media/ksijjzCkg1kly/giphy.gif)
+
+
 <br />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=krectra&show_icons=true&count_private=true&theme=tokyonight&hide=stars)
 
 
+
 <br /><br /><br />
 <img align="right" alt="" src="https://www.python.org/static/community_logos/python-powered-w-140x56.png" />
-
+<br /><br /><br />
+<img align="right" alt="" src="https://komarev.com/ghpvc/?username=krectra" />
 <!--
 **krectra/krectra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
