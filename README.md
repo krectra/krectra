@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krista</h1>
 <h3 align="center">Backend is 💜💛</h3>
+<h3 align="center">Linear Gang</h3>
 <br />
 
 ![Splash](https://media.giphy.com/media/ksijjzCkg1kly/giphy.gif)
